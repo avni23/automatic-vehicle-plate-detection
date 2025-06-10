@@ -1,1 +1,1 @@
-# Automatic Vehicle Plate Detection
+# ANPR_Minor

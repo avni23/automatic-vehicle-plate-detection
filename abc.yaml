@@ -1,0 +1,10 @@
+# path: C:Users\\Sambhav Mehta\\Desktop\\ANPR_Minor
+train: data\\images\\train
+val: data\\images\\valid
+test: data\\images\\test
+
+
+
+
+nc: 1
+names: ['License_Plate']
